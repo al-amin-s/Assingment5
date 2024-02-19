@@ -3,3 +3,7 @@
 body {
     font-family: 'Raleway', sans-serif;
 }
+
+.selected{
+    background-color: green; 
+}
